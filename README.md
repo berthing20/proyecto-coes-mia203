@@ -1,7 +1,7 @@
 # Pronóstico a 24 horas de la demanda eléctrica del SEIN (COES)
 
 Proyecto final del curso **MIA-203 Redes Neuronales y Aprendizaje Profundo** · UNI FIIS · Equipo 6
-Autor: Berthing Jhalin Gutierrez Brenis
+Autores: Berthing Jhalin Gutierrez Brenis -  Glenn Luque Canaza
 
 Pronóstico, a las 00:00 de Lima, de las 24 horas siguientes de la demanda eléctrica del Sistema Eléctrico Interconectado Nacional (SEIN), con datos públicos del COES (2008–2026). Se comparan Ridge, LightGBM y redes GRU, CNN y Transformer que corrigen el pronóstico del Ridge, con calendario peruano y una mezcla de modelos calibrada.
 
