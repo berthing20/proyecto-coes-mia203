@@ -31,6 +31,3 @@ Abrir un cuaderno en Colab: *Archivo → Abrir cuaderno → pestaña GitHub* y p
 ## Nota sobre la ejecución y los datos
 - Los cuadernos usan el código fuente, los pesos entrenados y los datos que el equipo guarda en su Google Drive; en este repositorio se publican como evidencia de los experimentos y sus resultados.
 - Los datos del COES **no se redistribuyen**: sus términos y condiciones (apartado V) permiten descargar «únicamente para fines informativos o personales» y exigen autorización escrita para distribuir su contenido. La fuente es el portal «Demanda» del COES: https://www.coes.org.pe/Portal/portalinformacion/demanda
-
-## Uso de herramientas de IA
-Se usó Claude (Anthropic) para programar, depurar, analizar resultados y redactar el borrador del informe, y Codex para la búsqueda bibliográfica. Los resultados provienen de ejecuciones propias en Google Colab (GPU Tesla T4).
